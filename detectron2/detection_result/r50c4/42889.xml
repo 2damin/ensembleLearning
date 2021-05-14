@@ -1,0 +1,101 @@
+<detection_result>
+  <image_id>42889<box_info>
+      <category_id>67</category_id>
+      <score>0.9835206866264343</score>
+      <bbox>[168.12673950195312, 247.61195373535156, 68.18461608886719, 88.33811950683594]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>66</category_id>
+      <score>0.9831653833389282</score>
+      <bbox>[64.98949432373047, 374.96014404296875, 280.32293701171875, 124.11190795898438]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>77</category_id>
+      <score>0.625359296798706</score>
+      <bbox>[58.83464813232422, 56.3683967590332, 288.49853515625, 307.6824035644531]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>0</category_id>
+      <score>0.6147233843803406</score>
+      <bbox>[45.6049919128418, 29.8458194732666, 306.42010498046875, 402.58563232421875]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>57</category_id>
+      <score>0.27607059478759766</score>
+      <bbox>[2.1042966842651367, 9.107651710510254, 372.89569091796875, 490.892333984375]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>59</category_id>
+      <score>0.19371864199638367</score>
+      <bbox>[0.0, 0.0, 370.8054504394531, 464.884765625]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>16</category_id>
+      <score>0.16824111342430115</score>
+      <bbox>[60.67593002319336, 49.24605941772461, 282.97125244140625, 314.950927734375]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>67</category_id>
+      <score>0.14052742719650269</score>
+      <bbox>[279.3297424316406, 362.199951171875, 65.63494873046875, 62.8206787109375]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>64</category_id>
+      <score>0.13103748857975006</score>
+      <bbox>[131.02073669433594, 327.5541687011719, 68.08871459960938, 58.285186767578125]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>15</category_id>
+      <score>0.12024153769016266</score>
+      <bbox>[45.216522216796875, 38.95231246948242, 300.4543151855469, 332.5123291015625]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>54</category_id>
+      <score>0.11104035377502441</score>
+      <bbox>[170.30123901367188, 132.8507537841797, 39.5216064453125, 36.00982666015625]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>43</category_id>
+      <score>0.09528620541095734</score>
+      <bbox>[240.1826171875, 312.4732666015625, 107.95419311523438, 117.75314331054688]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>56</category_id>
+      <score>0.08174189925193787</score>
+      <bbox>[18.111663818359375, 38.83095932006836, 356.8883361816406, 445.8335876464844]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>63</category_id>
+      <score>0.0810176432132721</score>
+      <bbox>[57.30484390258789, 287.1322326660156, 310.5602722167969, 204.35897827148438]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>67</category_id>
+      <score>0.07628583908081055</score>
+      <bbox>[238.61941528320312, 312.8740539550781, 111.13827514648438, 115.34494018554688]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>67</category_id>
+      <score>0.07177354395389557</score>
+      <bbox>[126.57505798339844, 333.1234130859375, 72.26502990722656, 54.747802734375]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>76</category_id>
+      <score>0.06441564112901688</score>
+      <bbox>[238.56631469726562, 309.3566589355469, 113.235107421875, 122.03036499023438]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>65</category_id>
+      <score>0.056882113218307495</score>
+      <bbox>[146.63986206054688, 330.4368591308594, 40.99212646484375, 27.966796875]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>60</category_id>
+      <score>0.05379476025700569</score>
+      <bbox>[339.07928466796875, 243.60623168945312, 33.193817138671875, 146.2447509765625]</bbox>
+    </box_info>
+  </image_id>
+  <num_boxes>19</num_boxes>
+  <width>375</width>
+  <height>500</height>
+</detection_result>

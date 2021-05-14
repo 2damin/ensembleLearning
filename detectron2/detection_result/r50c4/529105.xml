@@ -1,0 +1,16 @@
+<detection_result>
+  <image_id>529105<box_info>
+      <category_id>17</category_id>
+      <score>0.9984222650527954</score>
+      <bbox>[181.16807556152344, 152.57070922851562, 304.08953857421875, 211.76150512695312]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>20</category_id>
+      <score>0.269881933927536</score>
+      <bbox>[181.92520141601562, 168.46348571777344, 306.2098693847656, 198.0245819091797]</bbox>
+    </box_info>
+  </image_id>
+  <num_boxes>2</num_boxes>
+  <width>640</width>
+  <height>480</height>
+</detection_result>

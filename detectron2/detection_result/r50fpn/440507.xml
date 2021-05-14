@@ -1,0 +1,51 @@
+<detection_result>
+  <image_id>440507<box_info>
+      <category_id>28</category_id>
+      <score>0.9930431842803955</score>
+      <bbox>[210.51007080078125, 150.10423278808594, 237.72793579101562, 166.64646911621094]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>13</category_id>
+      <score>0.5984092950820923</score>
+      <bbox>[35.581607818603516, 3.4343433380126953, 348.0716247558594, 258.8407897949219]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>60</category_id>
+      <score>0.1878116875886917</score>
+      <bbox>[0.7877921462059021, 308.6343078613281, 44.00849533081055, 64.12078857421875]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>56</category_id>
+      <score>0.16827547550201416</score>
+      <bbox>[3.973176956176758, 4.2668867111206055, 304.8449401855469, 317.6561584472656]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>28</category_id>
+      <score>0.13172711431980133</score>
+      <bbox>[13.036311149597168, 16.704111099243164, 427.65899658203125, 304.22686767578125]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>41</category_id>
+      <score>0.11883459985256195</score>
+      <bbox>[177.24147033691406, 223.65159606933594, 34.66102600097656, 57.28230285644531]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>28</category_id>
+      <score>0.09803616255521774</score>
+      <bbox>[327.9677429199219, 156.68704223632812, 125.90975952148438, 138.1907958984375]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>60</category_id>
+      <score>0.07865297049283981</score>
+      <bbox>[11.087176322937012, 201.5415802001953, 485.92340087890625, 166.10401916503906]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>59</category_id>
+      <score>0.053684625774621964</score>
+      <bbox>[23.09748649597168, 0.38121700286865234, 404.57659912109375, 304.9893798828125]</bbox>
+    </box_info>
+  </image_id>
+  <num_boxes>9</num_boxes>
+  <width>500</width>
+  <height>375</height>
+</detection_result>

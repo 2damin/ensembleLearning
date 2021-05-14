@@ -1,0 +1,51 @@
+<detection_result>
+  <image_id>168458<box_info>
+      <category_id>75</category_id>
+      <score>0.9965586066246033</score>
+      <bbox>[127.1170654296875, 336.55938720703125, 67.09381103515625, 195.8267822265625]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>75</category_id>
+      <score>0.9799615144729614</score>
+      <bbox>[232.07106018066406, 355.16217041015625, 110.86228942871094, 188.2000732421875]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>60</category_id>
+      <score>0.9557872414588928</score>
+      <bbox>[3.3642807006835938, 500.33514404296875, 412.9848937988281, 139.0291748046875]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>58</category_id>
+      <score>0.9225109815597534</score>
+      <bbox>[6.631124496459961, 13.142797470092773, 343.2747497558594, 537.7745971679688]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>44</category_id>
+      <score>0.09718473255634308</score>
+      <bbox>[139.74667358398438, 399.7484130859375, 22.568649291992188, 87.98831176757812]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>39</category_id>
+      <score>0.05607554316520691</score>
+      <bbox>[131.8463134765625, 376.57366943359375, 57.71453857421875, 155.79876708984375]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>44</category_id>
+      <score>0.055534765124320984</score>
+      <bbox>[139.51922607421875, 419.84698486328125, 12.369979858398438, 37.075927734375]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>75</category_id>
+      <score>0.05071140080690384</score>
+      <bbox>[131.26898193359375, 367.4503173828125, 36.25770568847656, 158.69476318359375]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>60</category_id>
+      <score>0.050378989428281784</score>
+      <bbox>[1.2709274291992188, 213.8848114013672, 420.2066345214844, 426.11517333984375]</bbox>
+    </box_info>
+  </image_id>
+  <num_boxes>9</num_boxes>
+  <width>425</width>
+  <height>640</height>
+</detection_result>

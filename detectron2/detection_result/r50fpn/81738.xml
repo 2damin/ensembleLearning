@@ -1,0 +1,51 @@
+<detection_result>
+  <image_id>81738<box_info>
+      <category_id>55</category_id>
+      <score>0.9943572878837585</score>
+      <bbox>[102.18995666503906, 144.2933349609375, 435.2589111328125, 234.158447265625]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>0</category_id>
+      <score>0.9862740635871887</score>
+      <bbox>[455.3743896484375, 135.88783264160156, 182.38751220703125, 325.41082763671875]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>60</category_id>
+      <score>0.7091334462165833</score>
+      <bbox>[0.8360546827316284, 132.0918731689453, 605.5858154296875, 342.92108154296875]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>39</category_id>
+      <score>0.5737963914871216</score>
+      <bbox>[0.2872336208820343, 153.32171630859375, 35.73611068725586, 254.78982543945312]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>41</category_id>
+      <score>0.5244531631469727</score>
+      <bbox>[0.13097332417964935, 154.527587890625, 37.378639221191406, 258.9247131347656]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>43</category_id>
+      <score>0.1975211203098297</score>
+      <bbox>[350.5893249511719, 160.67715454101562, 123.45974731445312, 74.22129821777344]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>43</category_id>
+      <score>0.1331709921360016</score>
+      <bbox>[456.983154296875, 178.41604614257812, 59.4483642578125, 65.57630920410156]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>43</category_id>
+      <score>0.08701156079769135</score>
+      <bbox>[332.85699462890625, 131.63607788085938, 185.73663330078125, 121.54153442382812]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>55</category_id>
+      <score>0.054754965007305145</score>
+      <bbox>[320.51495361328125, 125.14020538330078, 188.45111083984375, 125.53536224365234]</bbox>
+    </box_info>
+  </image_id>
+  <num_boxes>9</num_boxes>
+  <width>640</width>
+  <height>480</height>
+</detection_result>

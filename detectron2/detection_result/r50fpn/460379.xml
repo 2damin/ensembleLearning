@@ -1,0 +1,31 @@
+<detection_result>
+  <image_id>460379<box_info>
+      <category_id>23</category_id>
+      <score>0.9984065890312195</score>
+      <bbox>[49.66692352294922, 299.46160888671875, 61.56591033935547, 209.8531494140625]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>23</category_id>
+      <score>0.9952622652053833</score>
+      <bbox>[344.50445556640625, 268.2036437988281, 56.34210205078125, 129.6666259765625]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>23</category_id>
+      <score>0.9886773824691772</score>
+      <bbox>[146.45278930664062, 400.170654296875, 106.56243896484375, 83.42120361328125]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>14</category_id>
+      <score>0.07297392934560776</score>
+      <bbox>[183.45346069335938, 468.1995544433594, 23.95050048828125, 20.228546142578125]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>23</category_id>
+      <score>0.05345337837934494</score>
+      <bbox>[209.18960571289062, 451.2154235839844, 15.11956787109375, 30.825439453125]</bbox>
+    </box_info>
+  </image_id>
+  <num_boxes>5</num_boxes>
+  <width>426</width>
+  <height>640</height>
+</detection_result>

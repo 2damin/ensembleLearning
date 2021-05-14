@@ -1,0 +1,51 @@
+<detection_result>
+  <image_id>236592<box_info>
+      <category_id>15</category_id>
+      <score>0.9135665893554688</score>
+      <bbox>[1.2082375288009644, 193.49037170410156, 243.77609252929688, 278.55828857421875]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>16</category_id>
+      <score>0.8780860304832458</score>
+      <bbox>[0.17909441888332367, 176.79920959472656, 243.2039337158203, 292.32080078125]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>69</category_id>
+      <score>0.8626018166542053</score>
+      <bbox>[344.9505920410156, 49.44862365722656, 295.0494079589844, 384.30450439453125]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>72</category_id>
+      <score>0.4492006301879883</score>
+      <bbox>[189.0406494140625, 13.439648628234863, 444.0404052734375, 460.8740539550781]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>0</category_id>
+      <score>0.2585252821445465</score>
+      <bbox>[393.0743408203125, 3.4490983486175537, 243.04730224609375, 86.73778533935547]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>68</category_id>
+      <score>0.17212240397930145</score>
+      <bbox>[246.99232482910156, 8.957208633422852, 393.0076904296875, 459.864501953125]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>45</category_id>
+      <score>0.11086403578519821</score>
+      <bbox>[381.04425048828125, 56.568790435791016, 258.9532470703125, 329.8346252441406]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>53</category_id>
+      <score>0.0602228082716465</score>
+      <bbox>[388.62945556640625, 72.73799133300781, 247.16302490234375, 297.1160888671875]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>0</category_id>
+      <score>0.057752229273319244</score>
+      <bbox>[244.45204162597656, 2.0853333473205566, 387.17889404296875, 331.65106201171875]</bbox>
+    </box_info>
+  </image_id>
+  <num_boxes>9</num_boxes>
+  <width>640</width>
+  <height>480</height>
+</detection_result>

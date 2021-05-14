@@ -1,0 +1,56 @@
+<detection_result>
+  <image_id>452891<box_info>
+      <category_id>16</category_id>
+      <score>0.9914313554763794</score>
+      <bbox>[56.42854309082031, 81.93695068359375, 355.2230224609375, 396.9499816894531]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>13</category_id>
+      <score>0.6236843466758728</score>
+      <bbox>[15.864420890808105, 181.86293029785156, 456.68951416015625, 449.68035888671875]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>13</category_id>
+      <score>0.434067964553833</score>
+      <bbox>[0.0, 0.0, 478.0, 417.0650634765625]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>15</category_id>
+      <score>0.23713549971580505</score>
+      <bbox>[105.6908187866211, 410.3335266113281, 74.6783676147461, 79.5357666015625]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>16</category_id>
+      <score>0.176157608628273</score>
+      <bbox>[190.07347106933594, 84.26639556884766, 224.1929473876953, 274.1590576171875]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>2</category_id>
+      <score>0.09273715317249298</score>
+      <bbox>[0.0, 139.5918426513672, 478.0, 493.629150390625]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>15</category_id>
+      <score>0.08484765887260437</score>
+      <bbox>[187.87973022460938, 166.32518005371094, 203.54742431640625, 354.23065185546875]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>15</category_id>
+      <score>0.0770769938826561</score>
+      <bbox>[52.606407165527344, 116.45223236083984, 368.6155700683594, 411.7313537597656]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>16</category_id>
+      <score>0.07375463843345642</score>
+      <bbox>[53.044029235839844, 137.08116149902344, 175.50115966796875, 237.6677703857422]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>3</category_id>
+      <score>0.05494872108101845</score>
+      <bbox>[0.0, 196.9846649169922, 413.43499755859375, 414.6688232421875]</bbox>
+    </box_info>
+  </image_id>
+  <num_boxes>10</num_boxes>
+  <width>478</width>
+  <height>640</height>
+</detection_result>

@@ -1,0 +1,51 @@
+<detection_result>
+  <image_id>463174<box_info>
+      <category_id>32</category_id>
+      <score>0.999687671661377</score>
+      <bbox>[104.74009704589844, 244.4062042236328, 25.511734008789062, 26.632217407226562]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>0</category_id>
+      <score>0.9994232654571533</score>
+      <bbox>[200.4805908203125, 10.079319953918457, 321.17926025390625, 409.1172180175781]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>38</category_id>
+      <score>0.9984353184700012</score>
+      <bbox>[14.640674591064453, 230.55538940429688, 214.13587951660156, 99.55960083007812]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>13</category_id>
+      <score>0.6057916879653931</score>
+      <bbox>[96.58137512207031, 299.24908447265625, 505.60455322265625, 123.20901489257812]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>38</category_id>
+      <score>0.1069212257862091</score>
+      <bbox>[99.62786102294922, 227.51382446289062, 136.72381591796875, 76.66958618164062]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>27</category_id>
+      <score>0.06125382333993912</score>
+      <bbox>[221.1483154296875, 336.88275146484375, 63.996978759765625, 89.33755493164062]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>34</category_id>
+      <score>0.05649935081601143</score>
+      <bbox>[124.77409362792969, 299.70489501953125, 477.43341064453125, 63.62628173828125]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>34</category_id>
+      <score>0.05233670398592949</score>
+      <bbox>[51.552146911621094, 223.85906982421875, 186.53485107421875, 94.33367919921875]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>32</category_id>
+      <score>0.05015015974640846</score>
+      <bbox>[223.60467529296875, 219.9767303466797, 29.949005126953125, 28.740142822265625]</bbox>
+    </box_info>
+  </image_id>
+  <num_boxes>9</num_boxes>
+  <width>640</width>
+  <height>427</height>
+</detection_result>

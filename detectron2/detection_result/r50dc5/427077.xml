@@ -1,0 +1,51 @@
+<detection_result>
+  <image_id>427077<box_info>
+      <category_id>0</category_id>
+      <score>0.9999194145202637</score>
+      <bbox>[119.91123962402344, 72.62698364257812, 152.90174865722656, 336.4382629394531]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>34</category_id>
+      <score>0.5893687009811401</score>
+      <bbox>[108.34220123291016, 110.21479797363281, 174.94448852539062, 22.810302734375]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>38</category_id>
+      <score>0.5882170796394348</score>
+      <bbox>[114.60444641113281, 120.47246551513672, 49.127166748046875, 15.436988830566406]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>79</category_id>
+      <score>0.4854101538658142</score>
+      <bbox>[135.45486450195312, 122.30133056640625, 36.17698669433594, 9.007308959960938]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>79</category_id>
+      <score>0.4020475447177887</score>
+      <bbox>[114.69766998291016, 121.18772888183594, 54.77159881591797, 13.422515869140625]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>34</category_id>
+      <score>0.2812046408653259</score>
+      <bbox>[114.75755310058594, 120.6559829711914, 55.57341003417969, 14.399070739746094]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>34</category_id>
+      <score>0.14740528166294098</score>
+      <bbox>[131.0697784423828, 122.62845611572266, 39.70367431640625, 8.836402893066406]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>34</category_id>
+      <score>0.1283389925956726</score>
+      <bbox>[214.06541442871094, 109.97765350341797, 70.32185363769531, 14.569183349609375]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>38</category_id>
+      <score>0.07082336395978928</score>
+      <bbox>[114.00299072265625, 122.18133544921875, 26.55950927734375, 13.726608276367188]</bbox>
+    </box_info>
+  </image_id>
+  <num_boxes>9</num_boxes>
+  <width>344</width>
+  <height>500</height>
+</detection_result>

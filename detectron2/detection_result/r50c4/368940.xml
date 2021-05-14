@@ -1,0 +1,51 @@
+<detection_result>
+  <image_id>368940<box_info>
+      <category_id>71</category_id>
+      <score>0.9675830006599426</score>
+      <bbox>[2.230168581008911, 74.5635986328125, 329.4654541015625, 182.06832885742188]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>71</category_id>
+      <score>0.8845959901809692</score>
+      <bbox>[10.169951438903809, 107.50714111328125, 258.3682556152344, 112.40983581542969]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>62</category_id>
+      <score>0.13854101300239563</score>
+      <bbox>[11.0647554397583, 182.40846252441406, 333.5740051269531, 289.46051025390625]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>71</category_id>
+      <score>0.08370237797498703</score>
+      <bbox>[1.842540979385376, 70.17548370361328, 149.31591796875, 49.85865020751953]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>71</category_id>
+      <score>0.06953664124011993</score>
+      <bbox>[24.978548049926758, 131.33779907226562, 198.26609802246094, 71.92262268066406]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>69</category_id>
+      <score>0.06096700206398964</score>
+      <bbox>[0.541017472743988, 106.0724868774414, 345.5750732421875, 365.7489013671875]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>72</category_id>
+      <score>0.06073293089866638</score>
+      <bbox>[11.239182472229004, 180.47970581054688, 328.4627380371094, 292.35595703125]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>45</category_id>
+      <score>0.060151778161525726</score>
+      <bbox>[77.10371398925781, 73.1988525390625, 61.957977294921875, 23.78284454345703]</bbox>
+    </box_info>
+    <box_info>
+      <category_id>28</category_id>
+      <score>0.056438032537698746</score>
+      <bbox>[364.34991455078125, 272.00177001953125, 33.036712646484375, 24.601593017578125]</bbox>
+    </box_info>
+  </image_id>
+  <num_boxes>9</num_boxes>
+  <width>640</width>
+  <height>480</height>
+</detection_result>
